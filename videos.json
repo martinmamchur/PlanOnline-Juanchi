@@ -1,7 +1,6 @@
 {
   "Curl bíceps c/mancuernas alterno": "",
   "Curl bíceps con barra EZ": "",
-  "Curl femoral acostado en máquina": "",
   "Elevación lateral con mancuerna": "",
   "Elevación lateral en polea": "",
   "Extensión de tríceps en polea cuerda": "",
@@ -19,7 +18,6 @@
   "Press militar con mancuernas sentado": "",
   "Remo con barra T": "",
   "Remo en máquina pecho apoyado": "",
-  "Sentadilla en Smith o goblet c/kettlebell": "",
   "Sentadilla trasera c/barra (o Smith)": "",
   "Zancada reversa c/mancuernas": "",
   "calentamiento__mov1": "",
@@ -28,5 +26,7 @@
   "calentamiento__mov4": "",
   "calentamiento__core1": "",
   "calentamiento__core2": "",
-  "calentamiento__core3": ""
+  "calentamiento__core3": "",
+  "Curl femoral sentado en máquina": "",
+  "Sentadilla con barra o goblet c/kettlebell": ""
 }
